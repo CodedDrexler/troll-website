@@ -1,0 +1,51 @@
+body{
+  background: linear-gradient(90deg, rgba(14,0,170,1) 0%, rgba(0,212,255,1) 100%);
+  font-family: 'Epilogue', sans-serif;
+}
+
+button{
+
+  
+
+  margin-top: 200px;
+  padding-top: 3rem;
+
+
+  margin: 30rem auto;
+
+  border-radius: 2%;
+  border: none;
+  color: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+
+  text-transform: uppercase;
+
+  height: 48px;
+  background: rgb(115, 172, 193);
+  border: none;
+  border-radius: 7px;
+
+  margin-top: 32px;
+  font-size: 16;
+  text-align: center;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 14px 32px 15px;
+
+  cursor: pointer;
+
+  gap: 23px;
+}
+
+button:hover{
+  background: rgb(51, 146, 181);
+}
+
+button img{
+  height: 80px;
+  width: 70px;
+}
